@@ -1,1 +1,1 @@
-<view><text>{{msg}}</text></view>
+<view><text>{{msg}}</text><button type="default" size="mini" data-event-opts="{{[['tap',[['updateUserInfo',['$event']]]]]}}" bindtap="__e">更新</button></view>
