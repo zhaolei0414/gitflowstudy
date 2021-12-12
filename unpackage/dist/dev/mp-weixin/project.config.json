@@ -41,7 +41,7 @@
         "useCompilerPlugins": false
     },
     "compileType": "miniprogram",
-    "libVersion": "",
+    "libVersion": "2.19.6",
     "appid": "touristappid",
     "projectname": "hello-uni",
     "condition": {

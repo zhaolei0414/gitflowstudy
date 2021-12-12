@@ -4,6 +4,13 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		<view class="scrollview">
+			<view>A</view>
+			<view>B</view>
+			<view>C</view>
+		</view>
+			
+		
 	</view>
 </template>
 
@@ -23,7 +30,7 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
 	.content {
 		display: flex;
 		flex-direction: column;
@@ -49,4 +56,9 @@
 		font-size: 36rpx;
 		color: #8f8f94;
 	}
+	
+	.scrollview {
+		display: flex;
+	}
+	
 </style>
