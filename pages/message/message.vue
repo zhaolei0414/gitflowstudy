@@ -2,6 +2,7 @@
 	<view>
 		<text>{{msg}}</text>
 		<button type="default" size="mini" @click="updateUserInfo">更新</button>
+		<navigator url="../settings/settings">settings</navigator>
 	</view>
 </template>
 
