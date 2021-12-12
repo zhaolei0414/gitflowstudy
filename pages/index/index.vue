@@ -9,8 +9,6 @@
 			<view>B</view>
 			<view>C</view>
 		</view>
-			
-		
 	</view>
 </template>
 
