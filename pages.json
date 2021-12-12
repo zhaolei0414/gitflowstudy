@@ -19,7 +19,16 @@
 		{
 			"path":"pages/detail/detail"
 		}
-	],
+	    ,{
+            "path" : "pages/settings/settings",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "设置",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	// 全局配置
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
