@@ -10,7 +10,8 @@
 	export default {
 		data() {
 			return {
-				    msg:'hello-uni'
+				    msg:'hello-uni',
+					name:'张三'
 			}
 		},
 		onLoad() {
